@@ -1,0 +1,20 @@
+/* .Todobar {
+  margin-top: 20%;
+  display: flex;
+  justify-content: center;
+} */
+.Form {
+  margin-top: 20%;
+  /* display: flex;
+  justify-content: center; */
+}
+.Input {
+  /* width: 40%; */
+  /* height: 30px; */
+  outline: none;
+  text-align: center;
+}
+.igroup {
+  width: 40%;
+  margin: 0 auto;
+}
