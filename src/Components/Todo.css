@@ -2,3 +2,8 @@
   width: 40%;
   margin: 0 auto;
 }
+
+.lgitem {
+  display: flex;
+  justify-content: space-between;
+}
