@@ -8,12 +8,12 @@ This is a simple todo application made in React, based on context API.
 ```
 npx create-react-app react-todo
 ```
-- replace the public and src folders from this repo 
+- replace the public and src folders from those in this repo 
 - start the application
  ```
  npm start
  ```
  ### Important points
- There is np localStorage or database use in this project, so the todos get deleted on page refresh
+ There is no localStorage or database use in this project, so the todos get deleted on page refresh
  Feel free to add features like this and create a PR. 
 
